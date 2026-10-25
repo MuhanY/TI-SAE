@@ -1,0 +1,4 @@
+# Install TI-SAE with baseline and LLM dependencies.
+# See README for CUDA-specific and optional backbone installations.
+
+-e .[baselines,llm]
